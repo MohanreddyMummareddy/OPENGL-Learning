@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFMLOpenGL", "SFMLOpenGL\SF
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawATriangle", "DrawATriangle\DrawATriangle.vcxproj", "{DDA2ECF5-E3D2-41D4-ABC7-906148B1BB14}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractShader", "AbstractShader\AbstractShader.vcxproj", "{D998ECA3-0922-4F02-902C-5C74600E5B0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{DDA2ECF5-E3D2-41D4-ABC7-906148B1BB14}.Release|x64.Build.0 = Release|x64
 		{DDA2ECF5-E3D2-41D4-ABC7-906148B1BB14}.Release|x86.ActiveCfg = Release|Win32
 		{DDA2ECF5-E3D2-41D4-ABC7-906148B1BB14}.Release|x86.Build.0 = Release|Win32
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Debug|x64.ActiveCfg = Debug|x64
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Debug|x64.Build.0 = Debug|x64
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Debug|x86.Build.0 = Debug|Win32
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Release|x64.ActiveCfg = Release|x64
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Release|x64.Build.0 = Release|x64
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Release|x86.ActiveCfg = Release|Win32
+		{D998ECA3-0922-4F02-902C-5C74600E5B0F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
